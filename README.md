@@ -1,8 +1,6 @@
-Simple Profile Website
+# Simple Profile Website
 
-Credits:
-
-
+### Credits:
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
